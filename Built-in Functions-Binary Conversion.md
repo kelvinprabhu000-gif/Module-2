@@ -22,3 +22,4 @@ print("Binary representation of", a, "is", binary)
 
 
 ## Result
+Thus, the Python program to convert the number 16 into its binary representation using the built-in function was executed successfully, and the output obtained
