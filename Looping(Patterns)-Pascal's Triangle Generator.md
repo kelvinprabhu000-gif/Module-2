@@ -40,7 +40,7 @@ for n in range(rows):
         value = math.factorial(n) // (math.factorial(k) * math.factorial(n - k))
         print(value, end=" ")
 
-    print()
+print()
 ```
 ## Sample Output
 <img width="503" height="361" alt="image" src="https://github.com/user-attachments/assets/bfea47bd-1b63-4b5e-b8af-d7d64c0101de" />
