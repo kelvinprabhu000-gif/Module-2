@@ -15,12 +15,8 @@ To write a Python program that defines a function which accepts two values and r
 def result(a, b):
     mod = a % b
     print("Modulo =", mod)
-
-# Input from user
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
-
-# Function call
 result(a, b)
 ```
 
